@@ -3,7 +3,7 @@
         "phpunit/phpunit": "9.6.*"
     },
     "require": {
-        "php-curl-class/php-curl-class": "^9.3"
+        "php-curl-class/php-curl-class": "^11.0"
     },
     "autoload": {
       "classmap": [
